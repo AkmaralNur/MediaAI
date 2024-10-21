@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="song_1">Bilionera</string>
+    <string name="artist_1">Nightcore</string>
+
+    <string name="song_2">Sia ft. Sean Paul</string>
+    <string name="artist_2">Cheap Thrills</string>
+
+    <string name="song_3">kuduro</string>
+    <string name="artist_3">danza</string>
+
+    <string name="song_4">Лишь до утра</string>
+    <string name="artist_4">Dan Balan</string>
+
+    <string name="song_5">Ego</string>
+    <string name="artist_5">Willy William</string>
+
+    <string name="song_6">On The Floor X Stereo Love</string>
+    <string name="artist_6">Jhoker Editz</string>
+
+    <string name="song_7">mr. policeman</string>
+    <string name="artist_7">eva simons</string>
+
+    <string name="song_8">Pure Love</string>
+    <string name="artist_8">Arash</string>
+
+    <string name="song_9">Восточные сказки</string>
+    <string name="artist_9">Аниме клип</string>
+
+    <string name="song_10">kiyin onay</string>
+    <string name="artist_10">ziruza</string>
+</resources>
